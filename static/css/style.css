@@ -1,0 +1,14 @@
+.image {
+    width: 400x;
+    height: 300px;
+    margin-left: 400px;
+
+}
+
+.bg-image {
+    background-image: url("image1.jpg");
+}
+
+.title-center {
+    text-align: center;
+}
